@@ -5,11 +5,11 @@ class Triangle
     @b = b
     @c = c
   end
-end 
+end
 
     end
 
-  end
+
 
   class TriangleError < StandardError
     # triangle error code
